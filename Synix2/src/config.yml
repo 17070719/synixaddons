@@ -1,0 +1,18 @@
+event-blacklisted-commands:
+  - '/f show'
+  - '/f killlog'
+  - '/f deathlog'
+
+wilderness-reset-interval: 3600
+
+block-caching-worlds:
+  - 'world'
+
+default-scoreboard:
+  - '&m&f---------------------------'
+  - ' '
+  - ' &c&lKills: &f%data_kills%'
+  - ' &c&lDeaths: &f%data_deaths%'
+  - ' &c&lBalance: &f%data_balance%'
+  - ' '
+  - '&m&f---------------------------'

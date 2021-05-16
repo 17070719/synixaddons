@@ -1,0 +1,4 @@
+name: Synix2
+version: -Build 1
+main: net.simoncameron.synix2.SynixPlugin
+depend: [Lazarus]

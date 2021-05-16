@@ -1,0 +1,3 @@
+koth-death-message: '&c%player% was killed by [ANONYMOUS] in a koth area!'
+command-disabled-during-event: '&c%command% is disabled during events!'
+wilderness-reset: '&cWilderness chunks are resetting!'
